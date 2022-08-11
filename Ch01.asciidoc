@@ -7,11 +7,11 @@ Current State-::
 Intended State-::
 Why the great difference?
 
-History of Chia==
+===History of Chia
 
-==Chia Use, Users and their stories
+===Chia Use, Users and their stories
 
-==Getting Started
+===Getting Started
 
 Chia Wallet::
 Quick Start::
@@ -19,4 +19,3 @@ Getting your first XCH::
 Finding the current XCH price online::
 Sending XCH::
 Receiving XCH::
-
