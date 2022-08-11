@@ -1,0 +1,25 @@
+== Transactions 
+
+== Introduction
+
+== Transactions In Detail
+Inputs::
+Outputs::
+Coin Set Model - in detail
+Fees::
+Coinbase::
+
+== Chialisp Introduction
+Towards Turing Completeness::
+Stateless Verification::
+Advantages of LISP design choice:: 
+Functional language security mechanisms
+Evaluation at block formation
+
+== The Importance of Signatures
+How do digital signatures work in general?::
+How do they work in Chia?::
+Spendbundle evaluates to True or False many times dependent on a matching aggregate signature.
+BLS signatures and intermediate math fun::
+
+== XCH Balances and other abstractions 
