@@ -8,10 +8,10 @@
 
 == Flow control from within coin
 Conditional clauses::
+test
 
 == Announcements/Assertions
 Isolated to the spend bundle
-test
 
 == Signature Verification and it's realation to Chialisp
 
