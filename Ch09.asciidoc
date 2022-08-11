@@ -17,5 +17,3 @@ How encrypted and authenticated connections work
 
 == Chia Time Lords
 How and why
-
-== What happens if there is an unscheduled split in the blockchain?
