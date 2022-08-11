@@ -9,6 +9,7 @@ Hot::
 Warm::
 Cold::
 test
+
 == Wallet technology details
 BIP-39::
 Wallet types::
