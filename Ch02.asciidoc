@@ -7,6 +7,7 @@ Inputs::
 Outputs::
 Coin Lineage::
 
+
 == Blocks
 
 == Farming
