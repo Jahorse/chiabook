@@ -8,6 +8,7 @@ Outputs::
 Coin Set Model - in detail
 Fees::
 Coinbase::
+Test
 
 == Chialisp Introduction
 Towards Turing Completeness::
