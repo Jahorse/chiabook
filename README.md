@@ -15,8 +15,8 @@ To read this book, Click on each of the chapters to read in your browser. Other 
 ## Chapters
 
 + Chapter 1: '[Introduction](https://github.com/geraldneale/chiabook/blob/master/Ch01.asciidoc)'
-+ Chapter 2: '[How Chia Works]'
-+ Chapter 3: '[Chia Blockchain: The Reference Implementation]'
++ Chapter 2: '[How Chia Works](https://github.com/geraldneale/chiabook/blob/master/Ch02.asciidoc)'
++ Chapter 3: '[Chia Blockchain: The Reference Implementation](https://github.com/geraldneale/chiabook/blob/master/Ch03.asciidoc)'
 + Chapter 4: '[Keys, Addresses]'
 + Chapter 5: '[Wallets]'
 + Chapter 6: '[Transactions]'
