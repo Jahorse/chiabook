@@ -19,3 +19,5 @@
 == Testnet For Development
 
 == Clone Chains For Development And Experimentation
+Genesis ID?
+Plot reuse for multiple clone projects
