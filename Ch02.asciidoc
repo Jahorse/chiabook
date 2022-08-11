@@ -1,16 +1,16 @@
-==How Chia Works
+== How Chia Works
 
-==Basic Transactions, Blocks, Farming, Emissions Schedule and General Blockchain Principles
+== Basic Transactions, Blocks, Farming, Emissions Schedule and General Blockchain Principles
 
-==Transactions
+== Transactions
 Inputs::
 Outputs::
 Coin Lineage::
 
-==Blocks
+== Blocks
 
-==Farming
+== Farming
 
-==Emissions Schedule
+== Emissions Schedule
 
-==General Blockchain Principles
+== General Blockchain Principles
