@@ -1,1 +1,24 @@
-== Advanced Transactions and Chialisp
+== Advanced Transactions and Scripting
+
+== Introduction
+
+== Standard Transaction
+
+== Time locking chia smart coin using Chialisp
+
+== Flow control from within coin
+Conditional clauses::
+
+== Announcements/Assertions
+Isolated to the spend bundle
+
+== Signature Verification and it's realation to Chialisp
+
+== Lisp Evaluator introduces value transfer peculiarities
+Additions::
+Removals::
+blink_mojo example
+
+== Aggregate Signatures in real life situation
+special function smart coins in spend bundle that do nothing but emit additional value and use signatures for Farmer Exctracted Value (FEV) protection
+
