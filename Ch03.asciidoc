@@ -8,12 +8,12 @@
 
 == Full Node versus Wallet Only Mode
 
-==Chia API
+== Chia API
 
-==Basic CLI Commands
+== Basic CLI Commands
 
-==Chia RPC
+== Chia RPC
 
-==Alternative Clients
+== Alternative Clients
 
-==Alternative Libraries
+== Alternative Libraries
