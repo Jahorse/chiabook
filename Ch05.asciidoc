@@ -1,0 +1,19 @@
+== Wallets
+== Overview
+Randomly seeded wallet::
+Reused seeded wallet::
+
+== Wallet Best Practices
+Hot::
+Warm::
+Cold::
+
+== Wallet technology details
+BIP-39::
+Wallet types::
+NFT
+CAT
+DID
+ETC
+
+== Decentralized Identities (DIDs)
