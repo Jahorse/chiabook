@@ -3,5 +3,20 @@
 == Introduction
 
 === What Is Chia?
-Current State::
-Intended State::
+Current State-::
+Intended State-::
+Why the great difference?
+
+==History of Chia
+
+==Chia Use, Users and their stories
+
+==Getting Started
+
+Chia Wallet::
+Quick Start::
+Getting your first XCH::
+Finding the current XCH price online::
+Sending XCH::
+Receiving XCH::
+
