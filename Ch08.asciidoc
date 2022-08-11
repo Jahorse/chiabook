@@ -11,6 +11,7 @@ Conditional clauses::
 
 == Announcements/Assertions
 Isolated to the spend bundle
+test
 
 == Signature Verification and it's realation to Chialisp
 
