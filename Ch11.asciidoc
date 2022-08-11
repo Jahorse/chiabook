@@ -4,3 +4,18 @@
 
 == The Prefarm
 
+== Decentralized Consensus
+
+== Independent Verification Of Transactions
+
+== Aggregating Transactions Into A Block
+
+== Constructing The Block Header
+
+== Farming The Block
+
+== Validating The Block
+
+== Assembling And Selecting A Chain
+Forking
+
