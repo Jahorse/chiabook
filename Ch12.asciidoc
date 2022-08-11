@@ -1,0 +1,20 @@
+== Security
+
+== Principles
+Root Of Trust
+
+== Best Practices
+Storing seed phrase based on wallet(cold, warm or hot)
+Risk balancing
+Survivability of XCH value over time and likely scenarios
+
+== Attacks
+51%::
+Was HPOOL a 51% attack from first day? How can one tell the difference?
+
+Unscheduled split::
+What would happen? What should a reasonable farmer do? Plot reuse vs pick a winner?
+
+
+
+
