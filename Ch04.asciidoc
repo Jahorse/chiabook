@@ -13,4 +13,4 @@ Custody solution using Chia::
 
 "Sniffed Keys" - someone else knows your private key, but you don't know it.
 
-"Stolen? Keys" - someone else knows your private key and you no longer know it. 
+"Stolen? Keys" - someone else knows your private key and you no longer know it.
