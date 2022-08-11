@@ -17,5 +17,11 @@
 == Validating The Block
 
 == Assembling And Selecting A Chain
-Forking
+Forking::
+Hard fork versus soft fork
+Divmod soft fork
+
+== Emergency Upgrades
+CAT1 vulnerability
+
 
