@@ -20,12 +20,14 @@ To read this book, Click on each of the chapters to read in your browser. Other 
 + Chapter 4: '[Keys, Addresses]'
 + Chapter 5: '[Wallets]'
 + Chapter 6: '[Transactions]'
-+ Chapter 7: '[Advanced Transactions and Scripting]'
-+ Chapter 8: '[The Chia Network]'
-+ Chapter 9: '[The Blockchain]'
-+ Chapter 10: '[Farming and Consensus]'
++ Chapter 7: '[BLS Signatures]'
++ Chapter 8: '[Advanced Transactions and Scripting]'
++ Chapter 9: '[Chialisp]'
++ Chapter 10: '[The Chia Network]'
++ Chapter 11: '[The Blockchain]'
++ Chapter 12: '[Farming and Consensus]'
 + Chapter 11: '[Chia Security]'
-+ Chapter 12: '[Blockchain Applications]'
++ Chapter 12: '[Specific Chia Blockchain Applications]'
 
 ## Mastering Chia - First Edition
 
