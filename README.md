@@ -21,7 +21,7 @@ To read this book, Click on each of the chapters to read in your browser. Other 
 + Chapter 5: '[Wallets](https://github.com/geraldneale/chiabook/blob/master/Ch05.asciidoc)'
 + Chapter 6: '[Transactions](https://github.com/geraldneale/chiabook/blob/master/Ch06.asciidoc)'
 + Chapter 7: '[BLS Signatures](https://github.com/geraldneale/chiabook/blob/master/Ch07.asciidoc)'
-+ Chapter 8: '[Advanced Transactions and Scripting](https://github.com/geraldneale/chiabook/blob/master/Ch08.asciidoc)'
++ Chapter 8: '[Advanced Transactions and Chialisp](https://github.com/geraldneale/chiabook/blob/master/Ch08.asciidoc)'
 + Chapter 9: '[Chialisp](https://github.com/geraldneale/chiabook/blob/master/Ch09.asciidoc)'
 + Chapter 10: '[The Chia Network](https://github.com/geraldneale/chiabook/blob/master/Ch10.asciidoc)'
 + Chapter 11: '[The Blockchain](https://github.com/geraldneale/chiabook/blob/master/Ch11.asciidoc)'
