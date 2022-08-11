@@ -3,9 +3,9 @@
 == Basic Transactions, Blocks, Farming, Emissions Schedule and General Blockchain Principles
 
 == Transactions
-Inputs::
-Outputs::
-Coin Lineage::
+Inputs-::
+Outputs-::
+Coin Lineage-::
 Parent ID
 
 == Blocks
