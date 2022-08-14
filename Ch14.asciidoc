@@ -10,3 +10,4 @@ The Settlement Coin - Purpose and function. Maker definition. Taker definition. 
 == Pool Protocol(maybe leave out?)
 
 == Chiaswap
+Classic HTLC example(see notes from MB and adapt to this).
