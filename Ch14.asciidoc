@@ -5,7 +5,7 @@
 == Non-Fungible Tokens (NFTs)
 
 == Offer Files
-The Settlement Coin - Purpose and function.
+The Settlement Coin - Purpose and function. Maker definition. Taker definition. Standard puzzle and puzzlehash that all offer files use. Announces to other coins in the same block to use to assert before transferring their value to addresses stipulated by makers and takers of the offer files.
 
 == Pool Protocol(maybe leave out?)
 
