@@ -11,7 +11,7 @@ Conditional clauses::
 test
 
 == Announcements/Assertions
-Isolated to the spend bundle
+Assertions can be made beyond the spendbundle they were created in, but are isolated to their block.
 
 == Signature Verification and it's realation to Chialisp
 
