@@ -5,6 +5,7 @@
 == Non-Fungible Tokens (NFTs)
 
 == Offer Files
+The Settlement Coin - Purpose and function.
 
 == Pool Protocol(maybe leave out?)
 
