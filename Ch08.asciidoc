@@ -5,6 +5,10 @@
 == Standard Transaction
 
 == Time locking chia smart coin using Chialisp
+HTLC basic concepts::
+ASSERT_HEIGHT_RELATIVE - any value > 0 assures no emphemeral coins get created 
+ASSERT_HEIGHT_ABSOLUTE
+
 
 == Flow control from within coin
 Conditional clauses::
