@@ -8,12 +8,23 @@ Intended State-::
 Why the great difference?
 
 === History of Chia
+Bitcoin-based - open source and community dependent, but eco-friendly and utilizing advanced technologies unavailable in 2008. 
+Bram Cohen's re-invented version of Nakamoto Consensus for less energy usage per unit of security.
+Corporation formed around the project.
+21 million XCH pre-farm for the corpoation to control.
 
 === Chia use, users and their stories
+World Bank - Carbon credit swap.
+NFTs - Creator, gallery, buyer, and seller. Royalties. Trustless transactions with offer files.
+Commercial sale example - Coffee shop. Alice(customer), Bob(coffee shop proprietor) and Carol(wholesale coffee bean seller).
 
 === Getting Started
 
 Chia Wallet::
+Simple - 
+Medium Difficulty - Chia Light Wallet. The need to sync and update.
+Highest difficulty - Chia Full node
+
 Quick Start::
 Getting your first XCH::
 Finding the current XCH price online::
