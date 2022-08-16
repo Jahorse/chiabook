@@ -2,7 +2,7 @@
 
 Mastering Chia is a book for developers, although the first two chapters cover chia at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of chia.
 
-This repository contains the complete book which began publishing in August 2022.
+This repository contains the complete outline to the book which began publishing in August 2022. It will be create online for all to see the process, but it is not done yet as of 2022-08-16. I will indicate here when the book is in a nearly final state.
 
 # Issues, Errors, Comments, Contributions
 
