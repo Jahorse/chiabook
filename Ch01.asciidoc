@@ -26,7 +26,20 @@ Medium Difficulty - Chia Light Wallet. The need to sync and update.
 Highest difficulty - Chia Full node
 
 Quick Start::
+Chia light wallet example.
+
 Getting your first XCH::
+Faucet.
+Converting other currency to XCH at an exchange and sending to your wallet.
+
 Finding the current XCH price online::
-Sending XCH::
+cryptocompare.com
+
 Receiving XCH::
+Your XCH recieve address is just a string representation of the 32-byte puzzle hash which is just a compressed version of the Chialisp language code that makes up the coins once value is sent to that address. More than one XCH recieve address can be created for each wallet. It is recommended to create a new XCH receive address each time you are asked to provide an address for sending to, so as to increase your personal security. 
+
+Sending XCH::
+XCH address, amounts and fees.
+1 Trillion Mojos = 1 XCH
+XCH addresses are just string representations of the puzzle hash 32-byte representation of the Chialisp puzzle that needs to be solved to spend the coin. Standard wallet puzzles are the same for everyone and therefore get solved in a similar manner, but get they are secured by injecting the owners unique keys into the hashing calculation and can only be solved, and therefore spent, by using that same set of keys.
+
