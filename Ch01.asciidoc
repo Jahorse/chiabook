@@ -19,9 +19,10 @@ NFTs:: Creator, gallery, buyer, and seller. Royalties. Trustless transactions wi
 Commercial sale example:: Coffee shop. Alice(customer), Bob(coffee shop proprietor) and Carol(wholesale coffee bean seller).
 
 === Getting Started
+Chia is protocol that can be accessed using a client application that speaks the protocol. A chia wallet is the most common user interface to the Chia protocol system, just like a web-broswer is the most common user interface to the HTTP protocol system. There are several implementations of a chia wallet, just like there are several implementations of web-browsers(e.g., Chrome, Firefox, Safari, Brave, Edge etc). And just like each has it's own niche and attributes and deficits, chia wallets vary in quality and functionality in terms of security, speed of syncing, privacy etc. Included in the reference implementation of Chia Blockchain are two wallet configurations; the chia light wallet and chia full node wallet.
 
 Chia Wallet::
-Simple - 
+Simplest - ?
 Medium Difficulty - Chia Light Wallet. The need to sync and update.
 Highest difficulty - Chia Full node
 
@@ -32,7 +33,7 @@ Chia light wallet example.
 Getting your first XCH::
 
 Faucet.
-
+tion
 Converting other currency to XCH at an exchange and sending to your wallet.
 
 Get farming and join a pool. openchia.io
