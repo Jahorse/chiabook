@@ -30,7 +30,11 @@ Chia light wallet example.
 
 Getting your first XCH::
 Faucet.
+
 Converting other currency to XCH at an exchange and sending to your wallet.
+
+Get farming and join a pool. openchia.io
+
 
 Finding the current XCH price online::
 cryptocompare.com
