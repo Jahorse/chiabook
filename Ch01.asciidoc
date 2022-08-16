@@ -8,15 +8,15 @@ Intended State-::
 Why the great difference?
 
 === History of Chia
-Bitcoin-based - open source and community dependent like Bitcoin, but eco-friendly and utilizing advanced technologies unavailable to Satoshi Nakamoto 2008. 
-Bram Cohen's re-invented version of Nakamoto Consensus for less energy usage per unit of security. Chialisp lisp-based smmart coin programming language representing no side effects and minimal "syntactic sugar" for stability. 
-Corporation formed around the project.
-21 million XCH pre-farm for the corpoation to control.
+Bitcoin-based-:: open source and community dependent like Bitcoin, but eco-friendly and utilizing advanced technologies unavailable to Satoshi Nakamoto 2008. 
+Bram Cohen's re-invented version of Nakamoto Consensus-:: for less energy usage per unit of security. Chialisp lisp-based smmart coin programming language representing no side effects and minimal "syntactic sugar" for stability. 
+Chia Corporation:: formed around the project.
+21 million XCH Pre-farm:: for Chia Corporation control.
 
 === Chia use, users and their stories
-World Bank - Carbon credit swap.
-NFTs - Creator, gallery, buyer, and seller. Royalties. Trustless transactions with offer files.
-Commercial sale example - Coffee shop. Alice(customer), Bob(coffee shop proprietor) and Carol(wholesale coffee bean seller).
+World Bank:: Carbon credit swap.
+NFTs:: Creator, gallery, buyer, and seller. Royalties. Trustless transactions with offer files.
+Commercial sale example:: Coffee shop. Alice(customer), Bob(coffee shop proprietor) and Carol(wholesale coffee bean seller).
 
 === Getting Started
 
@@ -26,24 +26,31 @@ Medium Difficulty - Chia Light Wallet. The need to sync and update.
 Highest difficulty - Chia Full node
 
 Quick Start::
+
 Chia light wallet example.
 
 Getting your first XCH::
+
 Faucet.
 
 Converting other currency to XCH at an exchange and sending to your wallet.
 
 Get farming and join a pool. openchia.io
 
-
 Finding the current XCH price online::
+
 cryptocompare.com
 
 Receiving XCH::
+
 Your XCH recieve address is just a string representation of the 32-byte puzzle hash which is just a compressed version of the Chialisp language code that makes up the coins once value is sent to that address. More than one XCH recieve address can be created for each wallet. It is recommended to create a new XCH receive address each time you are asked to provide an address for sending to, so as to increase your personal security. 
 
 Sending XCH::
+
 XCH address, amounts and fees.
-1 Trillion Mojos = 1 XCH
+
 XCH addresses are just string representations of the puzzle hash 32-byte representation of the Chialisp puzzle that needs to be solved to spend the coin. Standard wallet puzzles are the same for everyone and therefore get solved in a similar manner, but get they are secured by injecting the owners unique keys into the hashing calculation and can only be solved, and therefore spent, by using that same set of keys.
 
+1 Trillion Mojos = 1 XCH
+
+Fees are method of prioritizing transactions. There is technically no minimum fee, but certain custom chia clients, like HPOOL, require a fee greater than zero for transactions to be entered into their mempool. HPOOL represents a large enough percentage of Chia nodes that it sometimes causes a noticable delay for zero fee transactions to be included into a non-HPOOL block. That combined with the nearly infinitely small value of a single Mojo, representing 1 trillionth of about $45 value of a single XCH, make it so that including a one Mojo fee pr greater is always a good idea if timeliness of your transaction is a consideration.
