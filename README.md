@@ -2,7 +2,7 @@
 
 Chia Blockchain - The Definitive Guide is a book for developers, although the first two chapters cover chia at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of chia.
 
-This repository contains the complete outline to the book which began publishing in August 2022 and the work in progress which is the rest of the book. It will be created online for all to see the process, but it is not done yet as of 2022-08-22. I will indicate here when the book is in a nearly final state.
+This repository contains the complete outline and work in progress to the book which began it's inception in August 2022. The entire process will be created online for all to see the progress, but it is not done yet as of 2022-08-22. I will indicate here when the book is in a nearly final state.
 
 # Issues, Errors, Comments, Contributions
 
