@@ -9,14 +9,14 @@ Intended State-::
 Why the great difference?
 
 === History of Chia
-Bitcoin-based-:: open source and community dependent like Bitcoin, but eco-friendly and utilizing advanced technologies unavailable to Satoshi Nakamoto 2008. 
-Bram Cohen's re-invented version of Nakamoto Consensus-:: for less energy usage per unit of security. Chialisp lisp-based smmart coin programming language representing no side effects and minimal "syntactic sugar" for stability. 
+Bitcoin-based-:: Open source and community dependent like Bitcoin, but eco-friendly and utilizing advanced technologies unavailable to Satoshi Nakamoto 2008. 
+Bram Cohen's re-invention of Nakamoto Consensus-:: The main reason is for less energy usage per unit of security, but all technical decisions were re-examined and many were upgraded significantly and are more in line with the goals of the original cypherpunks whose enthusiasm drove bitcoin in the early days. Chialisp is a lisp-based smart coin programming language representing no side effects and minimal "syntactic sugar" for stability and represents perhaps the foundation of the greatest feature improvements of chia over bitcoin. 
 Chia Corporation:: formed around the project.
-21 million XCH Pre-farm:: for Chia Corporation control.
+21 million XCH Pre-farm:: Chia Corporate control mechanism. Centralization concerns.
 
 === Chia use, users and their stories
 World Bank:: Carbon credit swap.
-Non-Fungible Tokens (NFTs):: Creator, buyer, and seller. Intrinsic royalties. Off er files - Trustless transactions.
+Non-Fungible Tokens (NFTs):: Creator, buyer, and seller. Intrinsic royalties. Offer files represent big leap forward in trustless transactions.
 Commercial sale example:: Coffee shop. Alice(customer), Bob(coffee shop proprietor) and Carol(wholesale coffee bean seller).
 
 === Getting Started
