@@ -59,7 +59,7 @@ Sending XCH::
 
 XCH address, amounts and fees.
 
-XCH addresses are just string representations of the puzzle hash 32-byte representation of the Chialisp puzzle that needs to be solved to spend the coin. Standard wallet puzzles are the same for everyone and therefore get solved in a similar manner, but get they are secured by injecting the owners unique keys into the hashing calculation and can only be solved, and therefore spent, by using that same set of keys.
+XCH is the unit of currency and XCH addresses are just string representations of the puzzle hash (32-byte representation) of the Chialisp puzzle that needs to be solved to spend the XCH denominated value of the coin. Standard wallet puzzles are the same for everyone and therefore get solved in a similar manner, but get they are secured by injecting the owners unique keys into the hashing calculation and can only be solved, and therefore spent, by using that same set of keys.
 
 1 Trillion Mojos = 1 XCH
 
