@@ -2,7 +2,8 @@
 [[ch01_intro_what_is_chia]]
 == Introduction
 
-=== What Is Chia?
+=== What Is Chia Blockchain?
+What is a blockchain?-::
 Current State-::
 Intended State-::
 Why the great difference?
