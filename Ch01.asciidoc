@@ -8,7 +8,7 @@ Decentralized blockchain definition -
 
 The value of a decentralized blockchain -
 
-Blockchain value - Hard to duplicate as it becomes longer and heavier, but it is slow when decentralized.
+General blockchain technology value - Hard to duplicate as it becomes longer and heavier, but it is slow when decentralized. Suprisingly little value added from a traditional database or ledger.
 
 How much of that value comes from removing a central authority? - Nearly all of it. <Details why...> If you disagree philosophically then partipatation in these decntralized blockchain projects is a faith-based endeavor. That is not the worst thing worst thing, but hopefully as you become more accustomed to the environment you will see the logic behind their necessity and get more reward for your resouces and efforts that you put into it.
 
