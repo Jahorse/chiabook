@@ -4,13 +4,15 @@
 
 === What Is Chia Blockchain?
 What is a decentralized blockchain, in general?-::
-Decentralized blockchain definition -
+Decentralized blockchain definition - Distributed, secured ledger where in the case of cryptocurrency "ledger" is defined as unspent value (AKA money) entries along with their timestamps. 
 
 The value of a decentralized blockchain -
 
-General blockchain technology value - Hard to duplicate as it becomes longer and heavier, but it is slow when decentralized. Suprisingly little value added from a traditional database or ledger.
+How much of that value comes from removing a central authority? - Nearly all of it. <Details why...> 
 
-How much of that value comes from removing a central authority? - Nearly all of it. <Details why...> If you disagree philosophically then partipatation in these decntralized blockchain projects is a faith-based endeavor. That is not the worst thing worst thing, but hopefully as you become more accustomed to the environment you will see the logic behind their necessity and get more reward for your resouces and efforts that you put into it.
+General blockchain value - Blocks and their system of connection become extremely difficult to duplicate as the chain becomes longer and heavier. That enhances their security and represents their upside technologically, but the downside is slow throughput of transactions due to distributed consensus mechanism that is spread out amongst as many peers as possible. A centralized blockchain is faster, but offers very little technological value compared to a traditional database or ledger. In other words, not everything that is ledger based should be on a blockchain, and even fewer should be on a decentralized blockchain. Only those things that need to be secured by an incorruptible barrier should be attempted to be put on a decentralized blockchain because the costs of a slowed system make it not worth it. It is a very compelling idea that some manifestation of the human concept of money should exist in this way and that is largely why partipants gather around these projects like bitcoin or chia blockchain. 
+
+If you don't agree philosophically that some form of money should be on a distributed, secured ledge, a decentralized blockchain, then your partipatation in these projects, at least currently, is a faith-based endeavor. That is not the worst thing, but hopefully as you become more accustomed to the environment you will see the logic behind their necessity and get more reward for your resouces and efforts that you put into it. And furthermore, hopefully chia blockchain makes a compelling argument for why it should be the one you want to see succeed the most.
 
 Current State-::
 Intended State-::
