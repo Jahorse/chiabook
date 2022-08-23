@@ -4,7 +4,7 @@
 
 === What Is Chia Blockchain?
 What is a decentralized blockchain, in general?-::
-Decentralized blockchain definition - Distributed, secured ledger where in the case of cryptocurrency "ledger" is defined as unspent value (AKA money) entries along with their timestamps. 
+Decentralized blockchain definition - A secured, distributed ledger; where in the case of a cryptocurrency "ledger" is defined as a record of unspent value (AKA money) entries along with timestamps. 
 
 The value of a decentralized blockchain -
 
