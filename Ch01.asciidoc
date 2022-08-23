@@ -3,7 +3,16 @@
 == Introduction
 
 === What Is Chia Blockchain?
-What is a blockchain, in general?-::
+What is a decentralized blockchain, in general?-::
+Decentralized blockchain definition -
+
+The value of a decentralized blockchain, like chia or bitcoin, is first, in that it is a collection of open and publicly usable protocols that anyone can connect to that can do a lot things that were previously unimaginable, similar to the internet itself, but all in the context of transferring value(AKA money) securely. The imagination of the partipants and the resources available being the main limiting factors of innovation. 
+
+What is the value of removing central authority from money? First, we all in our guts know that a central authority cannot possibly move fast enough to keep pace with digital innovations, so all attempts at digital currencies have lagged and will continue to lag behind what is possible. Second, and perhaps more importantly, decentralized financial systems foster a freedom of economy which drives demand directly from those holding the currency which leads to true prices in a market which inevitably get responded to by industry supply mechanisms responding to the profit motive. This all is reflecting a robust and nimble economy; one that can outcompete other ecomonies that remain based on forced, top down economics that don't reflect true demand, prices or industries. Essentially decentralized blockchains facilitate the an updated rendition of free and open economies, but are a dramatic leap forward. The potential for quality of life enhancements are as great as the difference between being child with limited rights and being an adult with full privileges backed by an incorruptible system of enforcement. Money is a very powerful concept in any society, but takes on a special meaning in a free society because essentially it is representation of the power to remain free. 
+
+There have been lots of attempts at digital value transfer and all have the similar attributes over analog money in that they can move at the speed of light over great distances and fractionlize to the tiniest decimel. This is great and some have been programmed them to do fancy things well beyond what a paper dollar or check can do, but all inevitably fail unless they are either backed by a strong analog based currency like the US dollar, or as in the case of bitcoin, ethereum and now chia they are decentralized blockchains. The magic formula that decentralized blockchains have over other digitally conceived versions of money is a special mechanism called Nakamoto Consensus that incentivizes normal people to becomes peers in a trustlessly supported and used the network and have the number of indivual participants serve as a protection of the network from attack while using the partipants respurces t do the validation of network transactions. 
+
+
 Current State-::
 Intended State-::
 Why the great difference?
