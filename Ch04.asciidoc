@@ -20,7 +20,7 @@ The brun command can be run again, but this time with the verbose flag `-v` to s
 
 Every puzzlehash you see in the coin set model, and many you can't see due to not being revealled yet, represents potentially infinite logic underneath; just waiting to be optionally revealled, verified and run outputting various, and many times highly complex, directives to the chia blockchain. The accumulated possible outputs of all of the puzzle hashes contained inside all of the unspent coins of the chia coin set model defines the state of the chia blockchain at any given time. 
 
-Hopefully, now you can visualize how simple, efficient and secure maintaining the chia blockchain state is compared to other blockchain projects regardless of how powerful and large the action potential of chia coin set model grows over time. That is the great and magnificent upside, but the downside is the sophistication now required of the wallet, which we will get into later chapters, in order to spend those coins.
+Hopefully, now you can visualize how simple, efficient and secure maintaining the chia blockchain state is compared to other blockchain projects regardless of how powerful and large the action potential of chia coin set model grows over time. That is the great and magnificent upside, but the downside is the sophistication now required of the wallet, which we will get into in later chapters, in order to spend those coins.
 
 XCH addresses::
 To convert a puzzle hash to an XCH address, which is just a string representation of the same thing, it is a beautifully simple command `cdv encode puzzle_hash`.
