@@ -10,7 +10,7 @@ test
 Puzzles::
 
 Puzzle Hashes::
-A puzzle hash is simply a puzzle run as a solution through sha256tree as the puzzle. This sounds complicated, but is not really and in many ways is the major magic trick that chia blockchain offer the world over anything else. It is worth spending the time to understand what this means and the implications.
+A puzzle hash is simply a puzzle run as a solution through sha256tree as the puzzle. This sounds complicated, but is not really and in many ways is the major magic trick that chia blockchain offers to the world over anything else previous. It is worth spending the time to understand what this means and the implications.
 
 You can easily get the puzzle hash for any puzzle by using the command `cdv clsp <something something>` with the output of <puzzlehash> being your new puzzlehash. It is recommended that you drop to a command line and try this. But this shortcut does not give the in-depth understanding we seek in this guide.
 
