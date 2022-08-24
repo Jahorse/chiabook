@@ -7,6 +7,9 @@ test
 == Basics of BLS signatures
 
 == Puzzles, Puzzle Hashes and XCH addresses
+Puzzles::
+
+Puzzle Hashes::
 
 XCH addresses::
 To convert a puzzle hash to an XCH address it is a beautifully simple command `cdv encode puzzle_hash`.
