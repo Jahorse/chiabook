@@ -1,0 +1,6 @@
+== Plotting and Pooling
+
+== Plotting:: ...
+
+== Pooling::
+PlotNFT can be pointed to the pool you want to join, so you can switch between pools without needing to replot in the future.
