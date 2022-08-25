@@ -22,5 +22,7 @@ testnet::
 
 `chia configure -t false` changes the environment from testnet to mainnet; for there are only those two environments currently. The process is seemless enough to feasibly work from both from the same machine and not worry about bouncing back and forth multiple times in a work day.
 
+Simulators:: Can be set up manually.
+
 branches::
 == Alternative Libraries
