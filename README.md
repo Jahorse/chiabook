@@ -26,8 +26,9 @@ To read this book, Click on each of the chapters to read in your browser. Other 
 + Chapter 10: '[The Chia Network](https://github.com/geraldneale/chiabook/blob/master/Ch10.asciidoc)'
 + Chapter 11: '[The Blockchain](https://github.com/geraldneale/chiabook/blob/master/Ch11.asciidoc)'
 + Chapter 12: '[Farming and Consensus](https://github.com/geraldneale/chiabook/blob/master/Ch12.asciidoc)'
-+ Chapter 13: '[Chia Security](https://github.com/geraldneale/chiabook/blob/master/Ch13.asciidoc)'
-+ Chapter 14: '[Specific Chia Blockchain Applications](https://github.com/geraldneale/chiabook/blob/master/Ch14.asciidoc)'
++ Chapter 13: '[Plotting and Pooling](https://github.com/geraldneale/chiabook/blob/master/Ch13.asciidoc)'
++ Chapter 13: '[Chia Security](https://github.com/geraldneale/chiabook/blob/master/Ch14.asciidoc)'
++ Chapter 14: '[Specific Chia Blockchain Applications](https://github.com/geraldneale/chiabook/blob/master/Ch15.asciidoc)'
 
 ## Chia Blockchain - The Definitive Guide - First Edition
 
