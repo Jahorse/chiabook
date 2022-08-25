@@ -1,4 +1,5 @@
 == Chialisp - In General
+Chialisp is a high-level language compiled to CLVM which implements smart coins on Chia Blockchain.
 
 == Useful Links
 
