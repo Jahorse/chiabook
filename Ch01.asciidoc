@@ -55,9 +55,9 @@ Getting your first XCH::
 
 Faucet.
 
-Converting other currency to XCH at an exchange and sending to your wallet.
+Converting other currency to XCH at an exchange and sending to your wallet. For example, you could transfer USDC or USDT into something like https://www.coinex.com to trade for XCH. From there you can send to any XCH address including your chia full node or light wallet. At this time there is no fee pressure therefore moving around XCH is nearly frictionless.
 
-Get farming and join a pool. openchia.io
+Get farming and join a pool:: openchia.io
 
 Finding the current XCH price online::
 
