@@ -3,6 +3,7 @@
 == Chia Asset Tokens (CATs)
 
 == Non-Fungible Tokens (NFTs)
+Special XCH address xch1alc82gjf2psvqehkdue2es480caruum6e296afx35e82fnwp8k5s6vrrej
 
 == Offer Files
 The Settlement Coin - Purpose and function. Maker definition. Taker definition. Standard puzzle and puzzlehash that all offer files use. Announces to other coins in the same block to use to assert before transferring their value to addresses stipulated by makers and takers of the offer files.
