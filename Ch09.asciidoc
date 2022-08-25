@@ -1,6 +1,6 @@
-=== Chialisp
+=== Chialisp - In General
 
-==Useful Links
+===Useful Links
 
 https://chialisp.com/
 
