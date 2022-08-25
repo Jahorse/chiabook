@@ -20,7 +20,7 @@ chia-devtools:: `cdv <etc>`
 testnet::
 `chia configure -t true` changes the environment from the default of "mainnet" to the current version of testnet which is "testnet10" currently. The testnet version gets updated every so often <add more here why and how> . Using this CLI command makes is so you don't need to find ~/.chia/mainnet/config/config.yaml and make multiple text editor based entries there yourself like you had to do in the past. You still can do it manually, but that process is more error prone and running this command instead also makes standardized adjustments to the important databases used for syncing and prevents them from getting overwritten starting with block zero like that had in the past. 
 
-`chia configure -t false` would change the environment from testnet to mainnet.
+`chia configure -t false` changes the environment from testnet to mainnet; for there are only those two environments currently. The process is seemless enough to feasibly work from both from the same machine and not worry about bouncing back and forth multiple times in a work day.
 
 branches::
 == Alternative Libraries
