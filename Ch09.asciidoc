@@ -1,1 +1,9 @@
 === Chialisp
+
+==Useful Links
+
+https://chialisp.com/
+
+https://chialisp.com/docs/resources
+
+https://devs.chia.net/guides
