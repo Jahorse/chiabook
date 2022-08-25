@@ -1,5 +1,8 @@
 == Plotting, Farming And Consensus
 
+== Plotting
+You can move plots around however you wish just make sure a new drive is added to your farm so the chia client knows to look at it. 
+
 == Introduction to Chia-nomics And Currency Creation Schedule.
 
 == The Prefarm
