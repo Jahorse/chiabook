@@ -24,3 +24,7 @@ Parent ID
 == Emissions Schedule
 
 == General Blockchain Principles
+
+Chia coin set model versus bitcoin UTXO model versus ethereum transaction model::
+Coin set model is based on UTXO which only keeps track of unspent coins/value. The transaction model keeps track of all transactions and generates a balances for specific wallet addresses or aggregates on the fly. Because coin set model is simpler it's generally considered more secure. 
+
